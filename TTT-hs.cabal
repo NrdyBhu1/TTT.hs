@@ -1,0 +1,15 @@
+cabal-version:      2.4
+name:               TTT-hs
+version:            0.1.0.0
+
+author:             NrdyBhu1
+maintainer:         NrdyBhu1@gmail.com
+
+extra-source-files:
+    README.md
+
+executable TTT-hs
+    main-is:          Main.hs
+    build-depends:    base ^>=4.14.2.0, random >= 1.1, containers >= 0.6.5.1
+    hs-source-dirs:   app
+    default-language: Haskell2010
