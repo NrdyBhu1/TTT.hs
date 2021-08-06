@@ -35,7 +35,7 @@ getMove move
     | otherwise     = -1
 
 -- Generic Programming pattern i guess
---¯\_(ツ)_/¯
+{- ¯\_(ツ)_/¯ -}
 replace :: Int -> a -> [a] -> [a]
 replace ind itm lst = toList $ update ind itm $ fromList lst
 

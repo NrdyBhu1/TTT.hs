@@ -1,6 +1,6 @@
 # TTT.hs
 A short tic-tac-toe written in Haskell.  
-**Note:** This is spaghetti code ¯\_(ツ)_/¯
+**Note:** This is spaghetti code **¯\_(ツ)_/¯**
 
 # To run
 ```sh
